@@ -8,6 +8,6 @@ const CONFIG_APP = {
     namaVendor: "Lafayette Photo Studio BJB",
 
     // 2. Google Drive API Key (Penting agar galeri bisa memuat foto)
-    googleApiKey: "AIzaSyAZczbLeVTXl-QKqLDJFWQLCd-lW9jqqxo",
+    googleApiKey: "AIzaSyDZ3j0CcEJmnivtLR_w5oH1VaPABG7olL0",
     whatsappAdmin: "+62 852-1235-0224" // <-- TAMBAHKAN BARIS INI (Ganti dengan nomor WA admin)
 };
